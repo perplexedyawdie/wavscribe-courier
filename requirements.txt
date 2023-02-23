@@ -1,0 +1,5 @@
+pika
+tensorflow-cpu
+transformers
+python-dotenv
+trycourier
